@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Downloads/Compressed/Express-Intro-CODE"
+		},
+		{
+			"path": "../../../../Documents/Templating_Demo"
+		},
+		{
+			"path": "../../../../Downloads/Compressed/RESTful-Routes-CODE"
+		},
+		{
+			"path": "../../../../Downloads/Compressed/Mongoose-CODE/MongooseBasics"
+		},
+		{
+			"path": "../../../../Downloads/Compressed/Mongoose-With-Express-CODE"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../Downloads/Compressed/Middleware-Intro-CODE/Middleware_Intro"
+		},
+		{
+			"path": "../../../../Downloads/Compressed/Express-Errors-CODE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "RESTful-Routes-CODE"
+	}
+}
